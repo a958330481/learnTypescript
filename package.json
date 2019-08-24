@@ -1,5 +1,5 @@
 {
-    "name": "Typescript",
+    "name": "learn-typescript",
     "version": "1.0.0",
     "description": "> 静态类型语言：在编译阶段确定所有变量的类型\r > 动态类型语言：在执行阶段确定所有变量的类型，在时间和空间上对性能都有损耗",
     "main": "./src/index.ts",

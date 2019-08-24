@@ -31,3 +31,29 @@ webpack-merge:合并两个文件
 
 
 
+
+、、、、
+
+
+TypeScript数组类型
+----
++ void
++ any
++ nerver
++ 元组
++ 枚举
++ 高级类型
+
+>另外ES6的数据类型也可以用
+>Array、Object、Boolean、null、undefined、Symbol、Number、String、Function
+
+### 类型注解
+
++ 语法：（变量/函数）：type
++ 作用：相当于强类型语言中的类型声明
+
+
+
+
+
+
