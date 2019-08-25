@@ -22,6 +22,9 @@ console.log(addFun5(1111,1))
 
 //let addFun6:addFun2  
 
+addFun2=(a,b)=>a+b
+
+console.log(addFun2(222,333))
 
 //可选参数:必选参数放到可选参数前
 
