@@ -23,16 +23,21 @@
 >npm i webpack-merge -D
 ```
 
+安装完成后，下次打开项目，可直接通过
+
+> npm start
+
+启动项目
+
+***
+
+
 注释：
 
 clean-webpack-plugin ：每次成功构建后帮我们清空dist目录,清除无用文件
 
 webpack-merge:合并两个文件
 
-
-
-
-、、、、
 
 
 TypeScript数组类型
