@@ -16,7 +16,7 @@
 ----
 
 ```javascript
->npm i webpack webpack-cli webpack-dev-server-D
+>npm i webpack webpack-cli webpack-dev-server -D
 >npm i ts-loader typescript -D
 >npm i html-webpack-plugin -D
 >npm i clean-webpack-plugin -D
